@@ -58,8 +58,8 @@ body {
   gap: 40px;
 }
 .studio-a {
+  color: #404bbf;
   position: relative;
-  color: var(--OCEAN);
 }
 .nav-link::after {
   content: "";
