@@ -72,6 +72,7 @@ body {
   padding-top: 24px;
   padding-bottom: 24px;
   position: relative;
+  color: var(--OCEAN);
 }
 
 .nav-link:hover,
