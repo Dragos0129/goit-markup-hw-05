@@ -434,6 +434,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 24px;
+  padding: 0;
 }
 .socialicon {
   width: 40px;
